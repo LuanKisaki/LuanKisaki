@@ -21,6 +21,7 @@ class Sobre extends Mim {
 }
 ```
 </div>
- <img width="460px" alt="lkisaki" src="https://github-readme-stats.vercel.app/api?username=lkisaki&show_icons=true&theme=radical"/>
- <img width="460px" alt="lkisaki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkisaki&layout=compact&theme=radical"/>
- <img width="90px" alt="fish" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmU0YzYyZDYwMTQ1MGQ1ODY0MGY0Y2MwNzExYTg1MzE1NGI4YWM1ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/9HYkPHPzR07rd3jnGF/giphy.gif"/>
+<div align="center">
+ <img width="45%" height="200px" alt="lkisaki" src="https://github-readme-stats.vercel.app/api?username=lkisaki&show_icons=true&theme=radical"/>
+ <img width="45%" height="200px" alt="lkisaki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkisaki&layout=compact&theme=radical"/>
+ </div>
