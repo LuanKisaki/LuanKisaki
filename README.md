@@ -40,8 +40,8 @@
  </div>
 
 <h1>
-  <img width="35%" height="200px" alt="lkisaki" src="https://github-readme-stats.vercel.app/api?username=lkisaki&show_icons=true&theme=radical"/>
-  <img align="right" width="45%" height="200px" alt="lkisaki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkisaki&layout=compact&theme=radical"/>
+  <img height="200px" alt="lkisaki" src="https://github-readme-stats.vercel.app/api?username=lkisaki&show_icons=true&theme=radical"/>
+  <img align="right" height="200px" alt="lkisaki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkisaki&layout=compact&theme=radical"/>
 </h1>
  
 
