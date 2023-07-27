@@ -41,7 +41,7 @@
 
 <h1>
   <!-- <img height="180px" alt="lkisaki" src="https://github-readme-stats.vercel.app/api?username=lkisaki&show_icons=true&theme=radical"/> -->
-  <img align="right" height="180px" alt="lkisaki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkisaki&layout=compact&theme=radical"/>
+  <img align="right" height="180px" alt="lkisaki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luankisaki&layout=compact&theme=radical"/>
 </h1>
  
 
