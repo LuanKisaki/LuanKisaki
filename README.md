@@ -25,15 +25,15 @@
  <div align="left">
 
  ```javascript
- // ferramentas_Eu_Uso organizado
- class Sobre extends Mim { 
+ // Eu_Habilidades
+ class Skills extends Me { 
    const myTools = {  
-     "ProgramingLanguages" : { "Javascript", "TypeScript", "Php", "Laravel" },
-     "OtherLanguages" : { "HTML", "CSS", "Json" },
-     "Database" : { "MongoDB", "MySql", "Postgres" },
+     "ProgramingLanguages" : { "Javascript", "TypeScript", "Java", "Php", "C#" },
+     "Tools" : { "HTML", "CSS", "Json", "Tailwind", "Bootstrap", "styled components", "React.js", "Vue.js"  },
+     "Database" : { "MySql", "Postgres" },
      "Editors" : { "Vscode" },
      "Platforms" : { "Windows", "GNU/Linux", "Mac" },
-     "OtherTools" : { "Git", "Figma", "Photoshop", "Inkscape", "Gimp" }
+     "OtherTools" : { "Git", "Figma", "VScode", "IntelliJ","Photoshop", "Inkscape", "Gimp" }
    };
  }
  ```
