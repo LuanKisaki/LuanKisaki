@@ -4,7 +4,7 @@
     Luan Kisaki Teixeira 
   <img
     align="right"
-    height="370px"
+    height="250px"
     alt="front-end"
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTMyYTU4NjQ5NGQ0ZDM4YWM2YjcwY2YxYmZmYzZiODc4NTViYWFjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bz9PIxJMQtkO943XeS/giphy.gif"
   />
