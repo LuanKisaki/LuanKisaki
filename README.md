@@ -40,22 +40,6 @@
         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJjNDM5NzljNWI4ZDc4Y2E5NjhhMDFjOGM5M2JjNTdlZTgxOWM1ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Y4ak9Ki2GZCbJxAnJD/giphy.gif"
      />
  </div>
- <div align="left">
-
- ```javascript
- // Eu_Habilidades
- class Skills extends Me { 
-   const myTools = {  
-     "ProgramingLanguages" : { "Javascript", "TypeScript", "Java", "Php", "C#" },
-     "Tools" : { "HTML", "CSS", "Json", "Tailwind", "Bootstrap", "styled components", "React.js", "Vue.js"  },
-     "Database" : { "MySql", "Postgres" },
-     "Editors" : { "Vscode" },
-     "Platforms" : { "Windows", "GNU/Linux", "Mac" },
-     "OtherTools" : { "Git", "Figma", "VScode", "IntelliJ","Photoshop", "Inkscape", "Gimp" }
-   };
- }
- ```
- </div>
 
 <hr>
   <img 
